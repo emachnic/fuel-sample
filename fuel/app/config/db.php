@@ -17,9 +17,9 @@ return array(
 		'type'			=> 'mysql',
 		'connection'	=> array(
 			'hostname'   => 'localhost',
-			'database'   => 'fuel_dev',
+			'database'   => 'blog_example',
 			'username'   => 'root',
-			'password'   => '',
+			'password'   => 'payton',
 			'persistent' => false,
 		),
 		'table_prefix' => '',
